@@ -1,6 +1,6 @@
 {
   "name": "set-interval-serial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for setInterval function to prevent overlapping execution",
   "main": "index.js",
   "scripts": {
