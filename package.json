@@ -1,0 +1,19 @@
+{
+  "name": "set-interval-serial",
+  "version": "1.0.0",
+  "description": "Wrapper for setInterval function to prevent overlapping execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlangure/set-interval-serial.git"
+  },
+  "author": "Yury Fedorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orlangure/set-interval-serial/issues"
+  },
+  "homepage": "https://github.com/Orlangure/set-interval-serial#readme"
+}
